@@ -1,3 +1,12 @@
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// NOTE!!!
+//This was a fully realized game made by a team  over one semester consisting of Derek Alexander, Ethan Gatlin, Steven Killen, Matthew Strawn and with 
+//plenty of help from our professor Scott Strentzsch aka our fearless leader. As this was a team project this is all I feel comfortable 
+//showing of our work which consist of over 60 files of code as well as art and sound assets. An important note, 
+//this was our own hand written engine from windows up to directx and finally to our game no SDKs here.
+//
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 #include "stdafx.h"
 
 #include <sstream>
